@@ -4,3 +4,5 @@ Python practice programs including variables, loops, functions, strings, lists, 
 1. Experiment 3
 
 2. Variables & data types
+
+3. strings & conditional statements
